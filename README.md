@@ -46,4 +46,4 @@ Each turn, select a candy by entering its row and column, then choose a directio
 
 ## Authors
 
-Bilal Mohsin & Ali Meekal
+- Bilal Mohsin & Ali Meekal
